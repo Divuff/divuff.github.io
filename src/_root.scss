@@ -5,8 +5,8 @@
   // Roundness
   --border-radius: 3px;
   --button-border-radius: 2px;
-  --avatar-radius: calc(var(--border-radius) / 2);
-  --server-radius: var(--border-radius);
+  --avatar-radius: 20px;
+  --server-radius: 20px;
 
   // Primary Coloring
   --accent-solid: rgba(var(--accent), 1);
@@ -21,7 +21,7 @@
   // Spacing
   --spacing-third: calc(var(--spacing) / 3);
   --spacing-half: calc(var(--spacing) / 2);
-  --spacing: 10px;
+  --spacing: 20px;
   --spacing-double: calc(var(--spacing) * 2);
   --spacing-triple: calc(var(--spacing) * 3);
 
@@ -32,7 +32,7 @@
   // Text Scaling
   --font-size-xsm:9px;
   --font-size-sm: 11px;
-  --font-size: 12px;
+  --font-size: 13px;
   --font-size-md: 14px;
   --font-size-lg: 28px;
   --font-size-xl: 32px;
@@ -72,13 +72,13 @@
 
   // Sidebars
   --sidebar-width: 260px;
-  --member-height: 42px;
-  --channel-height: 32px;
+  --member-height: 35px;
+  --channel-height: 40px;
 
   // Avatars
   --avatar-size-xsm:18px;
   --avatar-size-sm: 24px;
-  --avatar-size: 28px;
+  --avatar-size: 35px;
   --avatar-size-lg: 45px;
   --avatar-size-xl: 64px;
 
