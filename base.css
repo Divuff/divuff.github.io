@@ -76,7 +76,7 @@
 html.theme-dark #app-mount .theme-light .root-1gCeng,
 html.theme-dark .force-theme.theme-light {
   --base-border: #292841;
-  --text-normal: #d1d5da;
+  --text-normal: #00142c;
   --text-muted: #959da5;
   --text-focus: #ffffff;
   --text-link: rgb(var(--link-colour));
